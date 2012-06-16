@@ -6,3 +6,8 @@ D-Modules/: 05f0bdb declared and installed AssociatedOrderGradedRing and Associa
 
 Versions:
  2012.02.29
+
+ExamplesForHomalg/: bdbc63e interchange view and display lines for rings
+
+Versions:
+ 2011.08.10
